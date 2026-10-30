@@ -13,7 +13,7 @@ An AI chatbot that provides answers based on PDFs and text documents.
 ## Roadmap	
 - [x] M0	Set up Git and GitHub
 
-- [ ] M1	A chat loop with a fake bot that repeats what you type; quit exits	
+- [x] M1	A chat loop with a fake bot that repeats what you type; quit exits	
 
 - [ ] M2	The bot remembers the conversation	
 
