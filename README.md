@@ -13,12 +13,12 @@ An AI chatbot that provides answers based on PDFs and text documents.
 ## Roadmap	
 - [x] M0	Set up Git and GitHub
 
-- [x] M1	A chat loop with a fake bot that repeats what you type; quit exits	
+- [ ] M1	A chat loop with a fake bot that repeats what you type; quit exits	
 
-- [x] M2	The bot remembers the conversation	
+- [ ] M2	The bot remembers the conversation	
 
-- [x] M3	Install the Claude library and store your API key safely	
+- [ ] M3	Install the Claude library and store your API key safely	
 
-- [x] M4	Replace the fake bot with Claude	
+- [ ] M4	Replace the fake bot with Claude	
 
-- [x] M5	Handle errors without crashing and save chats to a file	
+- [ ] M5	Handle errors without crashing and save chats to a file	
